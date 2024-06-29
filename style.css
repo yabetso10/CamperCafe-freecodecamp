@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+
+div {
+    background-color: burlywood;
+}
+
+h1, h2, p {
+    text-align: center;
+}
